@@ -7,7 +7,7 @@ structure and style a website using html tags and CSS\
 classes.**
 
 
-# Html basic structure <Badge type="tip" text="" />
+## Html basic structure <Badge type="tip" text="" />
 
 ```html
 <!DOCTYPE html>
@@ -34,7 +34,7 @@ In HTML, all content is framed in the "body" tag, which is where content is adde
 various links to libraries, CSS or JavaScript files.
 \
 
-# CSS basic 
+## CSS basic 
 
 ```CSS
 p {
@@ -45,3 +45,7 @@ p {
 En CSS si on veut modifier un élément il suffit d'appeler l'élément dans un fichier en lui donnant un attribut CSS. \
 Par exemple ici tout le contenu se trouvant dans une balise P sera en rouge.
 
+
+
+
+[WebSite static](../projects/html-WebSite-Static.md)
