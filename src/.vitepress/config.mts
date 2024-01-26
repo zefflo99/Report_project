@@ -5,10 +5,16 @@ const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
     { text: 'JavaScript', link: '/languages/javascript'},
-      { text: 'JavaScript', link: '/languages/html'},
+      { text: "Html", link: '/languages/html'},
+      { text: "Rust", link: '/languages/Rust'},
+      { text: "Java", link: '/languages/Java'},
+      { text: "React", link: '/languages/React'},
   ]},
   { text: 'Projects', items: [
     { text: 'Rust todo list', link: '/projects/rust-todo'},
+      { text: 'html-WebSite-Static', link: '/projects/rust-todo'},
+      { text: 'Tic-Tac-Toe-Java', link: '/projects/Tic-Tac-Toe-Java'},
+      { text: 'Grade-View-JS', link: '/projects/Grade-View-JS'},
   ]},
 ]
 
