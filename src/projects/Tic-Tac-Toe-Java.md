@@ -1,4 +1,4 @@
-# Tic-Tac-Toe-Java<Badge type="tip" text="Tic-Tac-Toe-Java" />
+# Tic-Tac-Toe<Badge type="tip" text="Java" />
 
 In Java, I created a Tic-Tac-Toe game where one player \
 chooses the number of the square he wants, then the second \

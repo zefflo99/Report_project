@@ -1,4 +1,4 @@
-# Grade-view-JS <Badge type="tip" text="Grade-View-JS" />
+# Grade-view <Badge type="tip" text="JavaScript" />
 
 Grade-View is a project I was able to carry out in JavaScript.\
 The objective was to create a script to make a site dynamic. \

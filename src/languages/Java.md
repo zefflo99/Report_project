@@ -1,4 +1,10 @@
 # Java <Badge type="tip" text="Java" />
-I was able to learn the Java programming language by doing \
-exercises to understand how loops, conditions and other \
-elements found in Java work. 
+
+![logoJava](../images/Java_Logo.svg)
+
+
+**Java is an object-oriented programming language. It has been\
+designed to be portable, meaning that programs written in Java can\
+run on any device equipped with a Java Virtual Machine (JVM). \
+Java is widely used for application development.**
+

@@ -12,9 +12,10 @@ const links = [
   ]},
   { text: 'Projects', items: [
     { text: 'Rust todo list', link: '/projects/rust-todo'},
-      { text: 'html-WebSite-Static', link: '/projects/rust-todo'},
-      { text: 'Tic-Tac-Toe-Java', link: '/projects/Tic-Tac-Toe-Java'},
-      { text: 'Grade-View-JS', link: '/projects/Grade-View-JS'},
+      { text: 'html-WebSite-Static', link: '/projects/html-WebSite-Static'},
+      { text: 'Tic-Tac-Toe', link: '/projects/Tic-Tac-Toe-Java'},
+      { text: 'Grade-View', link: '/projects/Grade-View-JS'},
+      { text: 'Grade-View', link: '/projects/Grade-View-react'},
   ]},
 ]
 

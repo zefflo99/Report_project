@@ -1,4 +1,8 @@
 # JavaScript <Badge type="tip" text="JS" />
 
-With JavaScript, I learned how to communicate with the DOM \
-to make a site dynamic.
+![logoJS](../images/JavaScript-logo.png)
+
+
+**JavaScript is a programming language mainly used to make web \
+pages interactive. It enables dynamic content such as animations, \
+interactive forms, real-time updates, etc. to be added to websites.**

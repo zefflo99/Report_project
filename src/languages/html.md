@@ -1,7 +1,8 @@
-# Html <Badge type="tip" text="html" />
-Hello
-During my year I was able to work on the Web language Html and CSS.
+# Html <Badge type="tip" text="html and CSS" />
+![html et CSS](../images/htmletcss.png)
 
-I learned how to structure a site using various tags, such as div, main and many others.
 
-I also learned how to stylize a website with CSS to make it more visually appealing. 
+**Html and CSS are Web programming languages used to \
+structure and style a website using html tags and CSS\
+classes.**
+
