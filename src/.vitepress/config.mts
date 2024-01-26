@@ -5,6 +5,7 @@ const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
     { text: 'JavaScript', link: '/languages/javascript'},
+      { text: 'JavaScript', link: '/languages/html'},
   ]},
   { text: 'Projects', items: [
     { text: 'Rust todo list', link: '/projects/rust-todo'},
