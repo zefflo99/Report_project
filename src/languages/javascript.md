@@ -38,3 +38,6 @@ interactive forms, real-time updates, etc. to be added to websites.**
 **We can copy this code into an HTML file and open it in our\
 browser to see how it works. This illustrates the basic\
 principle of event handling in JavaScript.**
+
+
+[Grade-View-JS](../projects/Grade-View-JS.md)

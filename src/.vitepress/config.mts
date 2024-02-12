@@ -1,6 +1,6 @@
 import { defineConfig } from 'vitepress'
 
-// Will be displayed in left side bar and navigation
+// Will be displayed in left sidebar and navigation
 const links = [
   { text: 'Introduction', link: '/introduction' },
   { text: 'Languages', items: [
@@ -8,7 +8,7 @@ const links = [
       { text: "Html", link: '/languages/html'},
       { text: "Rust", link: '/languages/Rust'},
       { text: "Java", link: '/languages/Java'},
-      { text: "React", link: '/languages/React'},
+      { text: "PHP", link: '/languages/php'},
   ]},
   { text: 'Projects', items: [
     { text: 'Rust todo list', link: '/projects/rust-todo'},
@@ -16,13 +16,18 @@ const links = [
       { text: 'Tic-Tac-Toe', link: '/projects/Tic-Tac-Toe-Java'},
       { text: 'Grade-View', link: '/projects/Grade-View-JS'},
       { text: 'Grade-View', link: '/projects/Grade-View-react'},
+      { text: 'Todo-list-php', link: '/projects/Todo-list-php'},
   ]},
+
+  { text: 'FrameWork', items: [
+      {text: 'React', link: '/framework/react'},
+  ]}
 ]
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  // Update your title and description with user name
-  title: "My Progress Report - Toto",
+  // Update your title and description with username
+  title: "My Progress Report - Zefflo99",
   description: "The training report outlines all the skills acquired during the CFC of computer scientist applications development.",
   cleanUrls: true,
   lang: 'en',
@@ -54,7 +59,7 @@ export default defineConfig({
 
     socialLinks: [
       // Replace link with yor own GitHub repo or github profile
-      { icon: 'github', link: 'https://github.com/jobtrek/progress-report' }
+      { icon: 'github', link: 'https://github.com/zefflo99' }
     ],
 
     editLink: {
@@ -64,3 +69,4 @@ export default defineConfig({
     }
   }
 })
+

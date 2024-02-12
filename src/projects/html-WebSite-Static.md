@@ -6,4 +6,3 @@ svg to practice styling a page.
 **Page**
 
 
-![page](../images/staticsite.png)

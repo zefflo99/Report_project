@@ -32,7 +32,7 @@ classes.**
 \
 In HTML, all content is framed in the "body" tag, which is where content is added. The "Head" tag will contain the \
 various links to libraries, CSS or JavaScript files.
-\
+
 
 ## CSS basic 
 

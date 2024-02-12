@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "Toto Tutu"
-  text: "Training report"
+  name: "Kylian Clerc"
+  text: "Blog about my progress in computer science"
   tagline: "The training report outlines all the skills acquired during the CFC of computer scientist applications development."
   actions:
     - theme: brand
@@ -12,7 +12,7 @@ hero:
       link: /introduction
     - theme: alt
       text: Github repo
-      link: https://github.com/jobtrek/progress-report
+      link: https://github.com/zefflo99/Report_project
 
 features:
   - title: My projects
